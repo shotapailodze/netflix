@@ -1,4 +1,4 @@
-# [Live View](https://netflix-6b5fe.web.app/account)
+# [Live View](https://netflix-6b5fe.web.app/)
 
 # We Used Firebase for the back end, TMDB API for movies, Tailwind for styling, and many other react features
 

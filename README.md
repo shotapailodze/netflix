@@ -1,8 +1,7 @@
-# React + Vite
+# [Live View](https://netflix-6b5fe.web.app/account)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# We Used Firebase for the back end, TMDB API for movies, Tailwind for styling, and many other react features
 
-Currently, two official plugins are available:
+![image](https://github.com/shotapailodze/netflix/assets/55694002/aa272f41-bf70-40c5-a957-494599dbdf85)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/shotapailodze/netflix/assets/55694002/226524a3-5b9c-4da6-b9a9-8f3f0bddd138)
